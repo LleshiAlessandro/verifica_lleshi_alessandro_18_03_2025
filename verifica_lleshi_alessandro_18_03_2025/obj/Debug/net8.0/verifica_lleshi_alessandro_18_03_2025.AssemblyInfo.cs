@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("verifica_lleshi_alessandro_18_03_2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d1f31c952dc29f12a60feff62ae275399d70c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("verifica_lleshi_alessandro_18_03_2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("verifica_lleshi_alessandro_18_03_2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
